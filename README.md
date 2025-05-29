@@ -39,10 +39,8 @@ git clone https://github.com/acgtic211/si4iot
 3. Import the project into Eclipse (`File` -> `Import` -> `Existing Projects into Workspace`).
 4. Open the `.aird` file for the Sirius editor and start defining the project models.
 
-## Related Articles
-- **"A DSL for the Development of Heterogeneous Applications"**: [DOI: 10.1109/FiCloudW.2017.108](https://doi.org/10.1109/FiCloudW.2017.108)
-- **"A Cross-Device Architecture for Modelling Authentication Features in IoT Applications"**: [DOI: 10.3217/jucs-024-12-1758](https://doi.org/10.3217/jucs-024-12-1758)
-- **"IoTV: Merging DTV and MDE Technologies on the Internet of Things"**: [DOI: 10.1007/978-3-030-11890-7-25](https://doi.org/10.1007/978-3-030-11890-7-25)
+## Related Article
+- **SI4IoT: A methodology based on models and services for the integration of IoT systems**: Future Generation Computer Systems, Volume 143, June 2023, Pages 132-151, Elsevier. ISSN: 0167-739X. D. Alulema, J. Criado, L. Iribarne, A.J. Fernandez-Garcia, and R. Ayala [DOI: 10.1016/j.future.2023.01.023](https://doi.org/10.1016/j.future.2023.01.023)
 
 ## Video Demonstrations
 - [System Setup Video](https://www.youtube.com/watch?v=_KkkUdqSMsU)
