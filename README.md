@@ -43,9 +43,9 @@ git clone https://github.com/acgtic211/si4iot
 - **SI4IoT: A methodology based on models and services for the integration of IoT systems**: Future Generation Computer Systems, Volume 143, June 2023, Pages 132-151, Elsevier. ISSN: 0167-739X. D. Alulema, J. Criado, L. Iribarne, A.J. Fernandez-Garcia, and R. Ayala [DOI: 10.1016/j.future.2023.01.023](https://doi.org/10.1016/j.future.2023.01.023)
 
 ## Video Demonstrations
-- [System Setup Video](https://www.youtube.com/watch?v=_KkkUdqSMsU)
-- [Installation Tutorial](https://www.youtube.com/watch?v=MoC2mjMp_Aw)
-- [Tool Tutorial](https://www.youtube.com/watch?v=3VVa3Ib7ZLE)
+- [System Setup Video](https://youtu.be/i5O5yueDxXE)
+- [Installation Tutorial](https://youtu.be/qzLmoEqgI7o)
+- [Tool Tutorial](https://youtu.be/6Wz3r_yqUHM)
 
 For more information, visit the official [SI4IoT Project Page](https://acg.ual.es/repo/si4iot/).
 
