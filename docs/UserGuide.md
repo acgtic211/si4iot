@@ -16,9 +16,9 @@ Before starting, ensure the following tools are installed:
 
 ### Video Tutorials
 Refer to the following tutorials for a detailed guide:
-- [System Setup Video](https://www.youtube.com/watch?v=_KkkUdqSMsU)
-- [Installation Tutorial](https://www.youtube.com/watch?v=MoC2mjMp_Aw)
-- [Tool Example Tutorial](https://www.youtube.com/watch?v=3VVa3Ib7ZLE)
+- [System Setup Video](https://youtu.be/i5O5yueDxXE)
+- [Installation Tutorial](https://youtu.be/qzLmoEqgI7o)
+- [Tool Example Tutorial](https://youtu.be/6Wz3r_yqUHM)
 
 ## Installation Steps
 1. **Install the Required Plugins**:
